@@ -25,25 +25,17 @@ A simple Node.js console application to fetch and display weather information us
 
 ```
 .
-│ 
 ├── db
 │   └── database.json
 ├── helpers
 │   └── inquirer.js
 ├── models
 │   └── searches.js
-└── index.js
-│
-└── .gitignore
-│ 
-└── example.env
-│ 
-└── index.js
-│
-└── package-lock.json
-│
-└── package.json
-│
+├── .gitignore
+├── example.env
+├── index.js
+├── package-lock.json
+├── package.json
 └── README.md
 ```
 
